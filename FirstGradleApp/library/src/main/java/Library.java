@@ -3,6 +3,8 @@
  */
 public class Library {
     public boolean someLibraryMethod() {
-        return true;
+        String welcome = "Welcome Rajiv to First Git project";
+    	
+    	return true;
     }
 }
